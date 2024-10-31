@@ -1,0 +1,14 @@
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\bin\Debug\net8.0\ControleVeiculos.exe
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\bin\Debug\net8.0\ControleVeiculos.deps.json
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\bin\Debug\net8.0\ControleVeiculos.runtimeconfig.json
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\bin\Debug\net8.0\ControleVeiculos.dll
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\bin\Debug\net8.0\ControleVeiculos.pdb
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\obj\Debug\net8.0\ControleVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\obj\Debug\net8.0\ControleVeiculos.AssemblyInfoInputs.cache
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\obj\Debug\net8.0\ControleVeiculos.AssemblyInfo.cs
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\obj\Debug\net8.0\ControleVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\obj\Debug\net8.0\ControleVeiculos.dll
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\obj\Debug\net8.0\refint\ControleVeiculos.dll
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\obj\Debug\net8.0\ControleVeiculos.pdb
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\obj\Debug\net8.0\ControleVeiculos.genruntimeconfig.cache
+C:\Users\2023102060045\source\repos\ControleVeiculos\ControleVeiculos\obj\Debug\net8.0\ref\ControleVeiculos.dll
